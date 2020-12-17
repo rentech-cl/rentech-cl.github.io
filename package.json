@@ -1,0 +1,22 @@
+{
+  "name": "rentech-cl.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rentech-cl/rentech-cl.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rentech-cl/rentech-cl.github.io/issues"
+  },
+  "homepage": "https://github.com/rentech-cl/rentech-cl.github.io#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
